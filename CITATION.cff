@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Li"
+    given-names: "Kejie"
+  - family-names: "Hurt"
+    given-names: "Jessica"
+  - family-names: "Whelan"
+    given-names: "Chris"
+  - family-names: "Challa"
+    given-names: "Ravi"
+  - family-names: "Lin"
+    given-names: "Dongdong"
+  - family-names: "Zhang"
+    given-names: "Baohong"
+  title: "bioInfograph: an online tool to design and display multi-panel scientific figure interactively"
+  doi: "10.3389/fgene.2021.784531"
+  journal: "Frontiers in Genetics"
+  year: 2021
+  url: "https://www.frontiersin.org/articles/10.3389/fgene.2021.784531/full"
